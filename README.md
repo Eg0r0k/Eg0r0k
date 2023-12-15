@@ -8,7 +8,7 @@ I started studying front end development a year ago. I managed to get acquainted
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [lambdawork1n@gmail.com](mailto:lambdawork1n@gmail.com)
-* 🚀  I'm currently working on [TypeMore](http://eg0r0k.github.io/TypeMore/)
+* 🚀  I'm currently working on [FirtProjectVue(Ink.House)](https://github.com/Eg0r0k/FirtProjectVue))
 * 🧠  I'm learning Advanced JavaScript
 
 <a href="https://www.github.com/Eg0r0k" target="_blank" rel="noreferrer"><img
