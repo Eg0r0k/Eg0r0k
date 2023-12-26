@@ -8,7 +8,7 @@ I started studying front end development a year ago. I managed to get acquainted
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [lambdawork1n@gmail.com](mailto:lambdawork1n@gmail.com)
-* 🚀  I'm currently working on [FirtProjectVue(Ink.House)](https://github.com/Eg0r0k/FirtProjectVue))
+* 🚀  I'm currently working on [FirtProjectVue(Ink.House)](https://github.com/Eg0r0k/FirtProjectVue)
 * 🧠  I'm learning Advanced JavaScript
 
 <a href="https://www.github.com/Eg0r0k" target="_blank" rel="noreferrer"><img
@@ -31,5 +31,4 @@ src="https://img.shields.io/github/followers/Eg0r0k?logo=github&style=for-the-ba
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Eg0r0k"><img src="https://github-readme-stats.vercel.app/api?username=Eg0r0k&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Eg0r0k's GitHub stats" /></a>
-
 <a href="https://github.com/Eg0r0k" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eg0r0k&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
